@@ -80,7 +80,7 @@
   <a href="https://instagram.com/touyamochizukivn" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="touyamochizukivn-instagram" />
   </a>
-  <a href="mailto:touyamochizukivn.official@gmail.com" target="top">
+  <a href="mailto:touyamochizukivn@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="touyamochizukivn-email" />
   </a>
 </div>
