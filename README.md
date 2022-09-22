@@ -71,7 +71,7 @@
   <a href="https://facebook.com/touyamochizukivn" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="touyamochizukivn-facebook" />
   </a>
-  <a href="https://www.youtube.com/c/TouyaMochizukiVNOfficial" target="blank">
+  <a href="https://www.youtube.com/channel/UCwiikmLh7OaZxT2IQYiyifg" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="touyamochizukivn-youtube" />
   </a>
   <a href="https://www.linkedin.com/in/touyamochizukivn" target="blank">
